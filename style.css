@@ -1,0 +1,41 @@
+.pic1{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+margin-top: 150px;
+}
+body{
+    text-align: center;
+}
+#welcome{
+    background: linear-gradient(#00ffff,#ff00a6,#00ff91);
+    height: 700px;
+}
+.menu{
+
+    list-style: none;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    font-size: 25px;
+}
+.item{
+    color :#000dff;
+    float: left;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+.line{
+    background-color: black;
+    height: 6px;
+    width: 150px;
+    margin: auto; 
+}
+p{
+    max-width: 800px;
+    margin: auto;
+    line-height: 2.0;
+    font-size: 35px;
+    font-family: 'Dongle', sans-serif;
+}
